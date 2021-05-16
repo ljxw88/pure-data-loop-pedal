@@ -50,7 +50,7 @@ The implementation is easy and straightforward, mainly two distinct parts, the l
 
 ### Drum Unit
 
-This unit is the direct copy of "Drum Kit Interface" designed in week 6. The detailed explanation on how it works can be found in my portfolio 1.
+This unit is the direct copy of "Drum Kit Interface". The detailed explanation on how it works can be found in my portfolio 1.
 
 ![w9-drum](./extra-files/w9-drum-implementation.png) *drum unit implementation*
 
