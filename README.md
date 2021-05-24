@@ -2,7 +2,9 @@
 A Loop Pedal Project in Pure Data 
 
 ## Platform
-Prue-data: https://github.com/pure-data/pure-data
+Prue-data:
+- Github Page: https://github.com/pure-data/pure-data
+- Community: https://puredata.info/
 
 ## Drum Kit Interface
 I packed the drum machine into an interface and added new functionalities onto the interface, making it more user-friendly. 
