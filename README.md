@@ -6,6 +6,9 @@ Prue-data:
 - Github Page: https://github.com/pure-data/pure-data
 - Community: https://puredata.info/
 
+## User Manual
+Comming Soon...
+
 ## Drum Kit Interface
 I packed the drum machine into an interface and added new functionalities onto the interface, making it more user-friendly. 
 
