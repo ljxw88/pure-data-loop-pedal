@@ -25,7 +25,7 @@ The prototype for my final performance. This project is completely powered by pu
 
 ![w9-interface](./extra-files/w9-interface.png) *looper interface*
 
-![w9-interface](./extra-files/mk3.jpeg) *Novation Launchkey Mini MK3*
+![w9-interface](./extra-files/mk3.png) *Novation Launchkey Mini MK3*
 
 ### Midi Input
 The input is the most basic function of a loop pedal yet the most important, there is basically two types of input in my keyboard: keys and knobs. Below is my implementation of input unit.
