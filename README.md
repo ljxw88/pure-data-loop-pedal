@@ -1,5 +1,5 @@
 # pure-data-loop-pedal
-A Loop Pedal Project in Pure Data 
+A Loop Pedal Project in Pure Data. Cross-platform performance interface, no dependency packages. Specially designed for Novation Launchkey Mini MK3. My laptop ensemble final project.
 
 ## Platform
 Prue-data:
